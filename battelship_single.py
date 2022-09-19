@@ -80,7 +80,7 @@ def RunGame():
             print("You hit all 5 battleships!")
             break
         else:
-            turns =- 1
+            turns -= 1
             print(f"You have {turns} turns remaning!")
             if turns == 0:
                 print("Sorry, run out of turns!")
