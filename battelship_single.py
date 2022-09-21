@@ -1,5 +1,3 @@
-from math import gamma
-from multiprocessing.pool import RUN
 import random
 
 class Board_game:
